@@ -1,0 +1,8 @@
+{
+  "name": "Smart Bra Companion",
+  "description": "A compassionate and advanced breast health monitoring application integrating ESP32 sensor data for early detection and wellness tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
